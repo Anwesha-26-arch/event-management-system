@@ -54,6 +54,24 @@ Access Swagger UI:
 
 http://localhost:8080/swagger-ui/index.html
 
+## Screenshots
+
+### Swagger Documentation
+
+![Swagger UI](screenshots/swagger-home.png)
+
+### Create Event API
+
+![Create Event](screenshots/create-event.png)
+
+### Status Filtering
+
+![Status Filter](screenshots/status-filter.png)
+
+### Event Statistics
+
+![Statistics](screenshots/statistics.png)
+
 ## Author
 
 Anwesha Das Gupta
